@@ -24,7 +24,7 @@ class AssessmentOrchestrator:
         self,
         api_key: Optional[str] = None,
         enable_llm: bool = True,
-        llm_model: str = "claude-3-5-haiku-20241022",
+        llm_model: str = "gemini-3.6-flash",
     ):
         self.scoring_engine = RiskScoringEngine()
         self.api_handler = JobRiskAPIHandler(scoring_engine=self.scoring_engine)
@@ -143,4 +143,4 @@ def create_orchestrator(
     enable_llm: bool = True
 ) -> AssessmentOrchestrator:
     """Creates and returns a configured AssessmentOrchestrator instance."""
-    return AssessmentOrchestrator(api_key=api_key, enable_llm=enable_llm)
+    return AssessmentOrchestrator(api_key=api_key, enable_llm=enable_llm, llm_model="gemini-3.6-flash")
