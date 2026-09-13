@@ -1,0 +1,402 @@
+[
+  {
+    "id": "T001",
+    "type": "clearly_real",
+    "text": "We are looking for a Senior Backend Developer with 3+ years experience in Python and Django. Responsibilities include designing APIs, code review, and mentoring junior developers. Salary range: $60,000-$80,000 based on experience. Please apply through our careers portal with your resume and portfolio.",
+    "email": "careers@techcorp.com",
+    "url": "https://techcorp.com/careers/backend-dev",
+    "true_label": "Low"
+  },
+  {
+    "id": "T002",
+    "type": "clearly_real",
+    "text": "Marketing Coordinator needed for a mid-sized retail company. Duties: social media management, campaign coordination, vendor communication. Bachelor's degree preferred, 2 years experience required. Onsite interview will be scheduled after initial screening call.",
+    "email": "hr@retailco.pk",
+    "url": "https://retailco.pk/jobs/marketing-coordinator",
+    "true_label": "Low"
+  },
+  {
+    "id": "T003",
+    "type": "clearly_fake",
+    "text": "URGENT HIRING!!! Earn $5000 weekly working from home, no experience needed high pay. Pay a registration fee of $50 to confirm your seat and start immediately. Contact us on WhatsApp only, no interview required.",
+    "email": "quickjobs99@gmail.com",
+    "url": null,
+    "true_label": "Critical"
+  },
+  {
+    "id": "T004",
+    "type": "clearly_fake",
+    "text": "Data entry job, guaranteed income, no experience high salary. Send your bank details and CNIC copy to process your first payment before joining. Limited seats, apply within 24 hours.",
+    "email": "hiring.now2024@yahoo.com",
+    "url": null,
+    "true_label": "Critical"
+  },
+  {
+    "id": "T005",
+    "type": "clearly_fake",
+    "text": "Work from home, no skills needed, any qualification accepted. Small training fee required to receive your starter kit. Instant hiring, no interview required. Payment via easypaisa only.",
+    "email": "jobopportunity111@gmail.com",
+    "url": null,
+    "true_label": "High"
+  },
+  {
+    "id": "T006",
+    "type": "tricky_real_false_positive_risk",
+    "text": "URGENT HIRING for our night-shift customer support team due to a sudden project scale-up. Limited seats available this month. Competitive salary, EOBI and health insurance included. Interviews being conducted this week at our office in Lahore.",
+    "email": "careers@supportbpo.com",
+    "url": "https://supportbpo.com/careers",
+    "true_label": "Low"
+  },
+  {
+    "id": "T007",
+    "type": "tricky_real_false_positive_risk",
+    "text": "Freelance graphic designer needed for a startup, no formal degree required — we care about your portfolio, not your certificate. Flexible hours, remote work, payment via bank transfer after milestone approval.",
+    "email": "design@startupstudio.io",
+    "url": "https://startupstudio.io/hiring",
+    "true_label": "Low"
+  },
+  {
+    "id": "T008",
+    "type": "tricky_fake_subtle",
+    "text": "We are pleased to offer you a position as a Remote Data Processing Associate. To proceed, our HR partner will send you an onboarding kit; a small refundable equipment deposit is required which will be reimbursed in your first salary. Kindly share your account details for the reimbursement process.",
+    "email": "hr.department@corporate-jobs-intl.com",
+    "url": "https://corporate-jobs-intl.com",
+    "true_label": "High"
+  },
+  {
+    "id": "T009",
+    "type": "tricky_fake_subtle",
+    "text": "Congratulations! Based on your profile on a job portal, you have been shortlisted for a Virtual Assistant role. No interview is necessary as your resume has already impressed our panel. Please confirm your acceptance and complete the joining formalities within 48 hours to secure the offer.",
+    "email": "recruitment.team@globalhire-connect.net",
+    "url": null,
+    "true_label": "Medium"
+  },
+  {
+    "id": "T010",
+    "type": "clearly_real",
+    "text": "Accounts Assistant required for a manufacturing firm. Must have experience with QuickBooks and Excel. This is an on-site role based in Karachi. Send CV to the email below; shortlisted candidates will be called for an interview.",
+    "email": "jobs@manufacturingco.com",
+    "url": "https://manufacturingco.com/careers",
+    "true_label": "Low"
+  },
+  {
+    "id": "T011",
+    "type": "clearly_real",
+    "text": "Greenfield Public School District is hiring a High School Mathematics Teacher for the upcoming academic year. Requirements: Bachelor's degree in Mathematics or Education, valid teaching certification, minimum 2 years classroom experience. Salary: $42,000-$48,000 annually based on experience, plus health benefits and pension contribution. Interested candidates should submit a resume, cover letter, and teaching certificate through our district's official application portal. Shortlisted candidates will be invited for an in-person teaching demonstration.",
+    "email": "hr@greenfieldschools.edu",
+    "url": "https://greenfieldschools.edu/careers/math-teacher",
+    "true_label": "Low"
+  },
+  {
+    "id": "T012",
+    "type": "clearly_real",
+    "text": "St. Mary's General Hospital is seeking a Registered Nurse for our night shift ICU team. Candidates must hold a valid nursing license, BLS/ACLS certification, and at least 1 year of ICU experience. This is a full-time position with shift differential pay, health insurance, and retirement plan. Please apply through our hospital's careers page with your resume and license number; interviews will be conducted on-site with our nursing director.",
+    "email": "recruitment@stmarysgeneral.org",
+    "url": "https://stmarysgeneral.org/careers/icu-nurse",
+    "true_label": "Low"
+  },
+  {
+    "id": "T013",
+    "type": "clearly_real",
+    "text": "Riverside University's IT Department is looking for an IT Support Specialist to join our help desk team. Responsibilities include troubleshooting hardware/software issues, managing user accounts, and supporting classroom AV equipment. Requires an Associate's degree in IT or equivalent experience, and strong customer service skills. This is an on-campus role with standard university benefits. Apply via our HR portal; selected applicants will have a panel interview with the IT manager and a technical skills assessment.",
+    "email": "itjobs@riversideu.edu",
+    "url": "https://riversideu.edu/hr/it-support-specialist",
+    "true_label": "Low"
+  },
+  {
+    "id": "T014",
+    "type": "clearly_fake",
+    "text": "Be your own boss! Join our exclusive business opportunity and earn unlimited income from home. Simply purchase our starter kit for $199 to unlock your distributor account and start selling premium wellness products to your network. Top performers are earning $10,000+ per month within their first 90 days! Limited spots available in your area - reserve yours today by sending payment via bank transfer.",
+    "email": "opportunity.team2024@gmail.com",
+    "url": null,
+    "true_label": "Critical"
+  },
+  {
+    "id": "T015",
+    "type": "clearly_fake",
+    "text": "Amazing opportunity! International company offering remote positions with full visa sponsorship to Canada/UK/Australia. No prior experience necessary, salary $4000/month guaranteed. To begin your visa sponsorship processing, please send a scanned copy of your passport along with a $150 administrative processing fee. Positions are filling fast, please respond within 48 hours to secure your spot.",
+    "email": "globalcareers.intl@yahoo.com",
+    "url": null,
+    "true_label": "Critical"
+  },
+  {
+    "id": "T016",
+    "type": "clearly_fake",
+    "text": "Become a delivery partner and earn guaranteed weekly income of $800! To get started, you must purchase your official uniform and delivery bag from our approved supplier for $60, payable via easypaisa or bank transfer before your first shift. No interview needed, start delivering within 24 hours of payment confirmation. Contact us on WhatsApp for the supplier's payment details.",
+    "email": "deliverypartners.hire@gmail.com",
+    "url": null,
+    "true_label": "Critical"
+  },
+  {
+    "id": "T017",
+    "type": "tricky_real_false_positive_risk",
+    "text": "Brightline Media is offering a 6-week unpaid internship in our content marketing department, in partnership with Westbrook University's career program. Interns will assist with social media scheduling, basic copywriting, and campaign research under the mentorship of our marketing lead. A formal internship agreement and offer letter will be issued upon selection, and a certificate of completion will be provided. This internship may lead to a paid junior role based on performance. Apply with your resume and a short writing sample.",
+    "email": "internships@brightlinemedia.com",
+    "url": "https://brightlinemedia.com/internships",
+    "true_label": "Low"
+  },
+  {
+    "id": "T018",
+    "type": "tricky_real_false_positive_risk",
+    "text": "Apex Home Solutions is hiring Sales Representatives on a commission-only basis to sell home improvement packages door-to-door and via referrals. Commission structure: 8-12% per closed sale, with top reps earning $3000-$5000/month. No base salary, but full product training and marketing materials are provided. This role suits self-motivated individuals comfortable with a commission-based structure. Telephonic interview followed by a one-day in-person training/shadowing session before you start.",
+    "email": "careers@apexhomesolutions.com",
+    "url": "https://apexhomesolutions.com/join-our-sales-team",
+    "true_label": "Low"
+  },
+  {
+    "id": "T019",
+    "type": "tricky_fake_subtle",
+    "text": "Congratulations! You have been selected to join our Mystery Shopper Evaluation Program. Your first assignment involves evaluating a money transfer service: we will mail you a cashier's cheque for $1,450. Deposit the cheque into your bank account, withdraw $1,200 in cash, and wire it to our partner location using the transfer service being evaluated, keeping $250 as your assignment fee. Please confirm your banking details so we can proceed with your first assignment this week.",
+    "email": "assignments@shopperinsights-research.net",
+    "url": "https://shopperinsights-research.net",
+    "true_label": "High"
+  },
+  {
+    "id": "T020",
+    "type": "tricky_fake_subtle",
+    "text": "Elite Faces Talent Agency is currently scouting new models for upcoming print and digital campaigns with major retail brands. No prior modeling experience required. To be added to our official talent roster and receive casting invitations, a one-time portfolio development fee of $85 is required, which covers your professional photo session and digital portfolio listing. Spots for this month's casting cycle are limited.",
+    "email": "casting@elitefacestalent.net",
+    "url": "https://elitefacestalent.net",
+    "true_label": "High"
+  },
+  {
+    "id": "T021",
+    "type": "clearly_real",
+    "text": "Summit Structural Engineering is hiring a Civil Engineer to join our bridge inspection team. Requirements: BS in Civil Engineering, EIT certification preferred, 2+ years experience with structural analysis software. Salary $58,000-$70,000 plus vehicle allowance for site visits. Apply through our careers page; shortlisted candidates undergo a technical interview and a site-visit shadow day before an offer is extended.",
+    "email": "careers@summitstructural.com",
+    "url": "https://summitstructural.com/careers/civil-engineer",
+    "true_label": "Low"
+  },
+  {
+    "id": "T022",
+    "type": "clearly_real",
+    "text": "The Olive Branch Bistro (3 locations) is hiring an Assistant Restaurant Manager. Responsibilities include staff scheduling, inventory ordering, and ensuring health code compliance. Requires 2+ years restaurant supervisory experience and food safety certification. Hourly wage plus manager bonus structure, disclosed at interview. Apply in person at any location or through our website; a working interview shift is part of our hiring process.",
+    "email": "hiring@olivebranchbistro.com",
+    "url": "https://olivebranchbistro.com/careers",
+    "true_label": "Low"
+  },
+  {
+    "id": "T023",
+    "type": "clearly_real",
+    "text": "Brushfire Creative, a mid-sized advertising agency, is looking for a Graphic Designer to join our client services team. Must be proficient in Adobe Creative Suite and have a strong portfolio of brand identity work. This is an in-office role with standard benefits and a 3-month probationary review. Please submit your portfolio and resume through our website; finalists will complete a paid design test as part of the interview process.",
+    "email": "jobs@brushfirecreative.com",
+    "url": "https://brushfirecreative.com/careers/graphic-designer",
+    "true_label": "Low"
+  },
+  {
+    "id": "T024",
+    "type": "clearly_real",
+    "text": "Dalton Manufacturing Co. is seeking an HR Generalist to support our 200-employee plant. Duties include onboarding, benefits administration, and employee relations. Requires a degree in HR or related field and 3+ years of generalist experience. Full benefits package including medical, dental, and 401k matching. Apply through our corporate HR portal; the process includes a phone screen, an in-person interview, and reference checks.",
+    "email": "hr@daltonmfg.com",
+    "url": "https://daltonmfg.com/careers/hr-generalist",
+    "true_label": "Low"
+  },
+  {
+    "id": "T025",
+    "type": "clearly_real",
+    "text": "Meridian Logistics is hiring a Warehouse Operations Supervisor for our regional distribution center. Responsibilities include managing shift schedules, overseeing inventory accuracy, and enforcing safety protocols. Requires 3+ years of warehouse supervisory experience and forklift certification. Compensation is discussed during the interview based on experience level. Candidates complete an on-site facility tour and interview with the operations manager before any offer.",
+    "email": "recruiting@meridianlogistics.com",
+    "url": "https://meridianlogistics.com/careers/warehouse-supervisor",
+    "true_label": "Low"
+  },
+  {
+    "id": "T026",
+    "type": "clearly_real",
+    "text": "Cornerstone Community Bank is hiring a Bank Teller for our downtown branch. Responsibilities include processing transactions, opening basic accounts, and providing customer service. High school diploma required, cash-handling experience preferred. This role requires a standard background check and credit check as per banking regulations. Apply through our branch or online portal; interviews are conducted with the branch manager.",
+    "email": "careers@cornerstonecommunitybank.com",
+    "url": "https://cornerstonecommunitybank.com/careers",
+    "true_label": "Low"
+  },
+  {
+    "id": "T027",
+    "type": "clearly_real",
+    "text": "Helping Hands Youth Foundation, a registered nonprofit, is looking for a part-time Social Media Manager to grow our donor engagement online. Requires experience managing organizational social accounts and basic graphic design skills. This is a grant-funded position with a fixed monthly stipend disclosed at interview. Apply with your resume and two social media campaign examples; interviews are conducted by our program director.",
+    "email": "info@helpinghandsyouth.org",
+    "url": "https://helpinghandsyouth.org/careers",
+    "true_label": "Low"
+  },
+  {
+    "id": "T028",
+    "type": "clearly_real",
+    "text": "Voltage Electrical Contractors is hiring an Electrician Apprentice to work alongside licensed journeymen on residential and commercial projects. Must be enrolled in or willing to enroll in a state-approved apprenticeship program. Hourly pay increases with each apprenticeship milestone completed. All tools above basic hand tools are provided by the company. Apply through our office; candidates meet with our lead electrician for a skills conversation before hiring.",
+    "email": "jobs@voltageelectrical.com",
+    "url": "https://voltageelectrical.com/careers/apprentice",
+    "true_label": "Low"
+  },
+  {
+    "id": "T029",
+    "type": "clearly_real",
+    "text": "Clearwave Telecom is hiring Customer Service Representatives for our call center team. Responsibilities include handling billing inquiries and technical support calls. Paid training program included, full-time with rotating shifts. Benefits available after 60 days of employment. Apply through our official careers site; the hiring process includes an assessment test and a panel interview with the call center manager.",
+    "email": "careers@clearwavetelecom.com",
+    "url": "https://clearwavetelecom.com/careers/customer-service",
+    "true_label": "Low"
+  },
+  {
+    "id": "T030",
+    "type": "clearly_fake",
+    "text": "Join the Prosperity Circle and take control of your financial future! Recruit others into our exclusive network and earn bonuses for every new member who joins under you. To activate your membership and receive your welcome package, a one-time enrollment fee of $120 is required. Members who recruit 5 people in their first month earn a luxury vacation bonus. Payment accepted via bank transfer only.",
+    "email": "join.prosperitycircle@gmail.com",
+    "url": null,
+    "true_label": "Critical"
+  },
+  {
+    "id": "T031",
+    "type": "clearly_fake",
+    "text": "SpeedyDrop Couriers is hiring delivery agents in your area. Earn $600-$900 weekly delivering parcels using our branded scanner device. To receive your scanner and starter delivery bag, a refundable security deposit of $90 must be sent via mobile wallet before dispatch. No interview necessary, deliveries can begin within 48 hours of payment confirmation.",
+    "email": "speedydrop.hiring@gmail.com",
+    "url": null,
+    "true_label": "Critical"
+  },
+  {
+    "id": "T032",
+    "type": "clearly_fake",
+    "text": "Remote Data Entry Clerks needed immediately, no experience required. Work at your own pace and earn $25/hour. To access our proprietary data entry software and begin receiving assignments, applicants must purchase a one-time software license for $45, payable via bank transfer or mobile wallet.",
+    "email": "dataentry.hiring2024@yahoo.com",
+    "url": null,
+    "true_label": "Critical"
+  },
+  {
+    "id": "T033",
+    "type": "clearly_fake",
+    "text": "Overseas Recruitment Agency is placing candidates in high-paying jobs in Dubai, Qatar, and Saudi Arabia. Salaries starting at $2,500/month with free accommodation. To begin your work visa processing, please send a scanned copy of your passport and pay a visa processing charge of $180. Limited slots available this recruitment cycle, respond within 3 days.",
+    "email": "overseas.placements@gmail.com",
+    "url": null,
+    "true_label": "Critical"
+  },
+  {
+    "id": "T034",
+    "type": "clearly_fake",
+    "text": "Simple typing job available, type 500 words daily and earn Rs. 30,000 monthly from home. To register and receive your first typing assignment, send Rs. 800 via easypaisa or jazzcash to the number provided. Payments to workers are released every Friday after task verification.",
+    "email": "typingjobs.pk@gmail.com",
+    "url": null,
+    "true_label": "Critical"
+  },
+  {
+    "id": "T035",
+    "type": "clearly_fake",
+    "text": "Personal Shopper Evaluation Program: you will receive a certified cheque for $2,200 in the mail. Deposit the cheque into your account, purchase a gift card worth $1,800 from a designated retailer as part of the evaluation, and keep the remaining $400 as your payment. Report back with photos of the gift card receipt to confirm task completion.",
+    "email": "shopper.eval@outlook.com",
+    "url": "https://retail-evaluations.example",
+    "true_label": "Critical"
+  },
+  {
+    "id": "T036",
+    "type": "clearly_fake",
+    "text": "Crypto Trading Assistant position available, no financial experience needed. Our AI trading bot generates consistent daily returns of 8-10%. To activate your trading account and access the bot dashboard, an initial account funding of $200 in USDT is required. Withdraw your profits anytime after your account is verified.",
+    "email": "cryptotrading.jobs@gmail.com",
+    "url": "https://ai-trading-careers.example",
+    "true_label": "Critical"
+  },
+  {
+    "id": "T037",
+    "type": "clearly_fake",
+    "text": "Remote Executive Assistant needed for a busy entrepreneur, $35/hour, flexible hours. To set up your payroll direct deposit, please provide your online banking username, password, and the one-time code sent to your phone so our finance team can verify your account before your first week's pay is processed.",
+    "email": "assistant.hiring@outlook.com",
+    "url": null,
+    "true_label": "Critical"
+  },
+  {
+    "id": "T038",
+    "type": "clearly_fake",
+    "text": "Federal Postal Service Jobs now open, permanent government position with pension benefits. Selected candidates must pay a Rs. 3,000 exam processing fee and submit a copy of their CNIC to confirm their seat in the upcoming recruitment exam. Appointment letters will be issued via email after fee confirmation.",
+    "email": "postaljobs.gov2026@gmail.com",
+    "url": "https://postal-recruitment-portal.example",
+    "true_label": "Critical"
+  },
+  {
+    "id": "T039",
+    "type": "tricky_real_false_positive_risk",
+    "text": "ParcelSwift Courier Services is hiring delivery drivers. Drivers use a company-issued handheld scanner for route tracking. A refundable $50 security deposit for the scanner is collected on your first day and returned in full when the device is returned at the end of employment, per our standard equipment policy. Interviews are conducted at our depot, and a valid driving license and vehicle inspection are required before starting.",
+    "email": "hiring@parcelswiftcourier.com",
+    "url": "https://parcelswiftcourier.com/careers/drivers",
+    "true_label": "Low"
+  },
+  {
+    "id": "T040",
+    "type": "tricky_real_false_positive_risk",
+    "text": "Nimbus Software Inc. is expanding through employee referrals and is offering a $500 referral bonus for any successful hire you refer to our engineering team. The role details are kept general in this posting since specifics vary by team, but interested referrals can view full job descriptions and apply directly on our careers page, where the standard multi-round interview process applies.",
+    "email": "talent@nimbussoftware.com",
+    "url": "https://nimbussoftware.com/careers/referral-program",
+    "true_label": "Low"
+  },
+  {
+    "id": "T041",
+    "type": "tricky_real_false_positive_risk",
+    "text": "Freelance event photographer needed for weekend bookings. As is standard in the photography industry, freelancers are expected to bring their own camera equipment and memory cards. Payment is $300 per event, invoiced after delivery of edited photos, paid via bank transfer within 7 business days. Portfolio review and a short video call precede any booking confirmation.",
+    "email": "bookings@framedmomentsstudio.com",
+    "url": "https://framedmomentsstudio.com/hire-a-photographer",
+    "true_label": "Low"
+  },
+  {
+    "id": "T042",
+    "type": "tricky_real_false_positive_risk",
+    "text": "Ironbridge Facilities Management is hiring Security Officers for a government contract site. As with all security roles at this facility, an official police clearance certificate is required; this $15 certificate fee is paid directly to the state police records office as part of the standard government background verification process, not to Ironbridge. Candidates who pass the background check attend an in-person interview and site orientation.",
+    "email": "recruitment@ironbridgefm.com",
+    "url": "https://ironbridgefm.com/careers/security-officer",
+    "true_label": "Low"
+  },
+  {
+    "id": "T043",
+    "type": "tricky_real_false_positive_risk",
+    "text": "Lumen Robotics, an early-stage startup founded by two former aerospace engineers, is hiring a generalist Operations Associate. Salary is below market rate at $38,000, offset by a meaningful equity grant, since we're a pre-seed company still finalizing our product roadmap. Day-to-day responsibilities will evolve as the company grows. Interviews are conducted directly with the founders, whose LinkedIn profiles and prior company history are linked on our careers page.",
+    "email": "founders@lumenrobotics.io",
+    "url": "https://lumenrobotics.io/careers/operations-associate",
+    "true_label": "Low"
+  },
+  {
+    "id": "T044",
+    "type": "tricky_real_false_positive_risk",
+    "text": "Golden Key Realty is recruiting commission-only Real Estate Agents. To practice, all agents must hold a valid state real estate license. The state real estate commission's licensing exam requires a $65 exam fee paid directly to the state board as required by law; this fee is unrelated to Golden Key Realty and is the same for any brokerage in the state. Once licensed, agents attend a two-day onboarding session with our broker.",
+    "email": "careers@goldenkeyrealty.com",
+    "url": "https://goldenkeyrealty.com/join-our-team",
+    "true_label": "Low"
+  },
+  {
+    "id": "T045",
+    "type": "tricky_fake_subtle",
+    "text": "Become a Brand Ambassador for Luxe Wellness Co.! Share our products on your social media and earn commission on every sale through your unique referral link. To become an official ambassador and receive your product samples for content creation, a starter product bundle purchase of $95 is required, which you can resell to customers or use for personal content. Top ambassadors are invited to exclusive brand events.",
+    "email": "ambassadors@luxewellnessco.net",
+    "url": "https://luxewellnessco.net/become-an-ambassador",
+    "true_label": "High"
+  },
+  {
+    "id": "T046",
+    "type": "tricky_fake_subtle",
+    "text": "Remote Bookkeeping Associate position, flexible hours, work with small business clients. Our proprietary cloud bookkeeping software is required to access client ledgers and process invoices. A software subscription activation fee of $55 is charged to associates during onboarding, which grants access to the client management dashboard and training materials for your first assignments.",
+    "email": "onboarding@ledgerlinepro.net",
+    "url": "https://ledgerlinepro.net/careers",
+    "true_label": "High"
+  },
+  {
+    "id": "T047",
+    "type": "tricky_fake_subtle",
+    "text": "Certified Translators wanted for our growing document translation agency, remote work available in over 20 languages. To be listed as a certified translator on our client-facing platform, applicants must pass our internal certification exam. A $40 exam administration fee applies, covering exam materials and your certified translator badge, which is required before receiving your first paid assignment.",
+    "email": "certification@globallinguateam.net",
+    "url": "https://globallinguateam.net/translator-certification",
+    "true_label": "High"
+  },
+  {
+    "id": "T048",
+    "type": "tricky_fake_subtle",
+    "text": "Inventory Quality Control Associate, home-based position. You will receive product samples at your home address, inspect them for quality, complete a short evaluation form, and repackage them using the prepaid shipping labels provided for return to our fulfillment partner. This role offers flexible hours and a monthly stipend, with no prior experience necessary.",
+    "email": "hr@brightpath-fulfillment.net",
+    "url": "https://brightpath-fulfillment.net/careers",
+    "true_label": "High"
+  },
+  {
+    "id": "T049",
+    "type": "tricky_fake_subtle",
+    "text": "Aspiring Models and Influencers: our talent network connects new faces with brands for paid campaigns. Once selected, talent are added to our digital portfolio system, which requires a one-time media kit production fee of $70 to professionally format your photos and stats for brand pitches. Talent with a completed media kit are eligible for upcoming casting calls.",
+    "email": "newfaces@spotlighttalentnetwork.net",
+    "url": "https://spotlighttalentnetwork.net/join",
+    "true_label": "High"
+  },
+  {
+    "id": "T050",
+    "type": "tricky_fake_subtle",
+    "text": "Licensed Insurance Sales Agents wanted, work from home, uncapped commission. As part of standard onboarding, all new agents are required to obtain an agent licensing bond, processed through our partner provider for a fee of $85, which is described as a routine industry requirement before your producer code can be activated with our carrier partners.",
+    "email": "onboarding@summitinsurancepartners.net",
+    "url": "https://summitinsurancepartners.net/agent-onboarding",
+    "true_label": "High"
+  }
+]
